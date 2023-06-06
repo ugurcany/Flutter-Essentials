@@ -1,7 +1,10 @@
 # Table of contents
 
-* [Page 1](README.md)
-* [Page 2](page-2.md)
+## Introduction
+
+* [Installation](README.md)
+* [IDE Setup](introduction/ide-setup.md)
+* [Creating First Project](introduction/creating-first-project.md)
 
 ## State Management
 
